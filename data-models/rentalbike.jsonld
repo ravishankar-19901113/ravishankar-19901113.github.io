@@ -15,6 +15,7 @@
             "boxAvailCnt": {"@type": "Number", "@id": "https://ravishankar-19901113.github.io/data-models/rentalbike.jsonld/boxAvailCnt"},
             "bikeCnt": {"@type": "Number", "@id": "https://ravishankar-19901113.github.io/data-models/rentalbike.jsonld/bikeCnt"},
             "ip": {"@type": "String", "@id": "https://ravishankar-19901113.github.io/data-models/rentalbike.jsonld/ip"},
-            "dateObserverd": {"@type": "DateTime", "@id": "https://ravishankar-19901113.github.io/data-models/rentalbike.jsonld/dateObserverd"}
+            "dateObserverd": {"@type": "DateTime", "@id": "https://ravishankar-19901113.github.io/data-models/rentalbike.jsonld/dateObserverd"},
+            "location": "http://uri.etsi.org/ngsi-ld/location"    
         }
     }
