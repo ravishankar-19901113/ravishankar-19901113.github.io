@@ -2,6 +2,7 @@
         "@context": {
             "id": "@id",
             "type": "@type",
+            "name": "https://schema.org/name",
             "RentalBikeStation": "https://ravishankar-19901113.github.io/data-models/rentalbike.jsonld#RentalBikeStation",
             "temperature": {"@type": "Number", "@id": "https://ravishankar-19901113.github.io/data-models/rentalbike.jsonld/temperature"},
             "temperature_observed": {"@type": "DateTime", "@id": "https://ravishankar-19901113.github.io/data-models/rentalbike.jsonld/temperature_observed"},
